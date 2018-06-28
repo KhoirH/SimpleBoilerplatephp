@@ -1,0 +1,12 @@
+<?php 
+include 'proteced.php' ;?>
+
+User-agent: *
+Disallow: /admin
+Disallow: /class
+Disallow: /core
+Disallow: /pages
+Disallow: /style
+Disallow: /template
+Disallow: /no_template
+
